@@ -111,9 +111,9 @@ Interested contributors should explore the repository and open a discussion to p
 
 ### IRis: Graph Neural Networks (GNN) for Structure-Aware LLVM IR Analysis
 
-**Repository:** [zrahay/IRis](https://github.com/zrahay/IRis)
+**Repository:** [pointblank-club/IRis](https://github.com/pointblank-club/IRis)
 
-**Full proposal:** [GSOC-2026.md](https://github.com/zrahay/IRis/blob/main/GSOC-2026.md)
+**Full proposal:** [GSOC-2026.md](https://github.com/pointblank-club/IRIS/blob/main/GSOC-2026.md)
 
 #### Summary
 
